@@ -1,6 +1,6 @@
 Figure 2
 --------------------
- consumer api that process data from different data sources
+ consumer api that process data from different data sources mostly based on OOP design
 
 Getting Started
 --------------------
