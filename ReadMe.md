@@ -15,7 +15,7 @@ Prerequisites
 --------------------
   1-import the database api.sql to you server or do it manually by Opening the file connection.php located in PHP-API/connection folder and create a database . a simple database that matches the connection variables (database name : api , tables: products: "id" "name" "price")
  
-  2-insert some values in each field to be rendered  
+  2-if you decided to create the database manaully so (insert some values in each field to be rendered )
  
 -optional : to create csv File you need to access the file csvFileGenerator.php 
  
